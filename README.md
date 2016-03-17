@@ -1,2 +1,2 @@
 # ejercicio1
-clase1
+Clase 1 de Laboratorio 4
