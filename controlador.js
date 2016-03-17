@@ -1,6 +1,6 @@
 
 
 function saludar(){
-	alert("Hola Mundo");
+	alert($("p"));
 
 }
